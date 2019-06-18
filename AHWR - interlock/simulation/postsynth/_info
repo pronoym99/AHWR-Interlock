@@ -1,0 +1,517 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Trainee/APK/condtn_1_a/simulation
+Ecode_1_a
+Z1 w1560330713
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8D:/Trainee/APK/condtn_1_a/synthesis/code_1_a.vhd
+Z5 FD:/Trainee/APK/condtn_1_a/synthesis/code_1_a.vhd
+l0
+L8
+V`VD2:ln`D4Hl:K^Fh>ND>3
+!s100 _lfmDA]0^MEcQi4`:=<ZJ1
+Z6 OW;C;10.5c;63
+33
+Z7 !s110 1560330718
+!i10b 1
+Z8 !s108 1560330718.000000
+Z9 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/condtn_1_a/synthesis/code_1_a.vhd|
+Z10 !s107 D:/Trainee/APK/condtn_1_a/synthesis/code_1_a.vhd|
+!i113 1
+Z11 o-2008 -explicit -work postsynth -O0
+Z12 tCvgOpt 0
+Adef_arch
+R2
+R3
+DEx4 work 8 code_1_a 0 22 `VD2:ln`D4Hl:K^Fh>ND>3
+l51
+L31
+VQXjlZe09dk2Ok4VZ[<b1D0
+!s100 TOM?m^0[BEi3K_?oPRS@L3
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecode_1_a_test
+Z13 w1560323186
+R2
+R3
+R0
+Z14 8D:/Trainee/APK/condtn_1_a/stimulus/code_1_a_test.vhd
+Z15 FD:/Trainee/APK/condtn_1_a/stimulus/code_1_a_test.vhd
+l0
+L32
+VL1M82fX`klYk8Z;?UHB<50
+!s100 E2B>a5IHn8i[b558Z_5Y81
+R6
+33
+Z16 !s110 1560324606
+!i10b 1
+Z17 !s108 1560324606.000000
+Z18 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/condtn_1_a/stimulus/code_1_a_test.vhd|
+Z19 !s107 D:/Trainee/APK/condtn_1_a/stimulus/code_1_a_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_1_a_test 0 22 L1M82fX`klYk8Z;?UHB<50
+l71
+L35
+V@XoA3BFbDdfQ:6EK>?PM<1
+!s100 fn385nGHD[R^K047RZ>6o2
+R6
+33
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Ecode_1_b_test
+Z20 w1560330616
+R2
+R3
+R0
+Z21 8D:/Trainee/APK/condtn_1_a/stimulus/code_1_b_test.vhd
+Z22 FD:/Trainee/APK/condtn_1_a/stimulus/code_1_b_test.vhd
+l0
+L32
+VTl<MTjL[LEzN08iY8R=[R0
+!s100 C2EiM>k3N85gAII>kAOVf0
+R6
+33
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/condtn_1_a/stimulus/code_1_b_test.vhd|
+Z24 !s107 D:/Trainee/APK/condtn_1_a/stimulus/code_1_b_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_1_b_test 0 22 Tl<MTjL[LEzN08iY8R=[R0
+l71
+L35
+V:0GoGha8QZamiD<aPUNkL3
+!s100 @7>A6X@==NZCfTcX1XaR43
+R6
+33
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12
+Ecode_1_d
+Z25 w1560337908
+R2
+R3
+Z26 dD:/Trainee/APK/AHWR interlock/simulation
+Z27 8D:/Trainee/APK/AHWR interlock/synthesis/code_1_d.vhd
+Z28 FD:/Trainee/APK/AHWR interlock/synthesis/code_1_d.vhd
+l0
+L8
+V>nF4CKTlj1NRHD_zLYMKH3
+!s100 L31SZUDY=97T>@W3g4YSI3
+R6
+33
+Z29 !s110 1560337913
+!i10b 1
+Z30 !s108 1560337913.000000
+Z31 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/synthesis/code_1_d.vhd|
+Z32 !s107 D:/Trainee/APK/AHWR interlock/synthesis/code_1_d.vhd|
+!i113 1
+R11
+R12
+Adef_arch
+R2
+R3
+DEx4 work 8 code_1_d 0 22 >nF4CKTlj1NRHD_zLYMKH3
+l54
+L19
+VIj5j22A1@h?YG`ZndXf[V3
+!s100 kf[^_[B?8UHNlDJ8GJ>h_2
+R6
+33
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R11
+R12
+Ecode_1_d_test
+Z33 w1560337874
+R2
+R3
+R26
+Z34 8D:/Trainee/APK/AHWR interlock/stimulus/code_1_d_test.vhd
+Z35 FD:/Trainee/APK/AHWR interlock/stimulus/code_1_d_test.vhd
+l0
+L32
+VOhUe:mHN=:g^ngFfOb]jB1
+!s100 M0BkjYFeX_T325>Bi_QLE2
+R6
+33
+R29
+!i10b 1
+R30
+Z36 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/stimulus/code_1_d_test.vhd|
+Z37 !s107 D:/Trainee/APK/AHWR interlock/stimulus/code_1_d_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_1_d_test 0 22 OhUe:mHN=:g^ngFfOb]jB1
+l59
+L35
+V?3nB_OF<8E[aH4QFM3?za0
+!s100 czaB0<YzJ[Pl2?Y3ZfW[C0
+R6
+33
+R29
+!i10b 1
+R30
+R36
+R37
+!i113 1
+R11
+R12
+Ecode_5_a
+Z38 w1560752836
+R2
+R3
+R26
+Z39 8D:/Trainee/APK/AHWR interlock/synthesis/code_5_a.vhd
+Z40 FD:/Trainee/APK/AHWR interlock/synthesis/code_5_a.vhd
+l0
+L8
+VPeSWg1Q]l?J5@@HEjano70
+!s100 WUJhLd8E[Oe?kUnRYzQN60
+R6
+33
+Z41 !s110 1560753592
+!i10b 1
+Z42 !s108 1560753592.000000
+Z43 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/synthesis/code_5_a.vhd|
+Z44 !s107 D:/Trainee/APK/AHWR interlock/synthesis/code_5_a.vhd|
+!i113 1
+R11
+R12
+Adef_arch
+R2
+R3
+DEx4 work 8 code_5_a 0 22 PeSWg1Q]l?J5@@HEjano70
+l97
+L35
+V3X;HV3DFL]4HnV3ajn`LO2
+!s100 4NTZCDV:b`Z;34ag88F653
+R6
+33
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R11
+R12
+Ecode_5_a_test
+Z45 w1560753570
+R2
+R3
+R26
+Z46 8D:/Trainee/APK/AHWR interlock/stimulus/code_5_a_test.vhd
+Z47 FD:/Trainee/APK/AHWR interlock/stimulus/code_5_a_test.vhd
+l0
+L32
+V:H^cYzEJ9ZHOZ5Vf?ok1C2
+!s100 f5]PUC]lEVf:zJU<P^ETR1
+R6
+33
+Z48 !s110 1560753593
+!i10b 1
+Z49 !s108 1560753593.000000
+Z50 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/stimulus/code_5_a_test.vhd|
+Z51 !s107 D:/Trainee/APK/AHWR interlock/stimulus/code_5_a_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_5_a_test 0 22 :H^cYzEJ9ZHOZ5Vf?ok1C2
+l75
+L35
+V17dJb46L6QzeHWLVkzMQ]0
+!s100 i[f1b`f>H100dIUGVnSA@0
+R6
+33
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R11
+R12
+Ecode_5_b
+Z52 w1560754521
+R2
+R3
+R26
+Z53 8D:/Trainee/APK/AHWR interlock/synthesis/code_5_b.vhd
+Z54 FD:/Trainee/APK/AHWR interlock/synthesis/code_5_b.vhd
+l0
+L8
+VOU<agAK2c7ES7f?MTiYKn3
+!s100 GS;55aLSP_FDB:gZ7;:ni3
+R6
+33
+Z55 !s110 1560754526
+!i10b 1
+Z56 !s108 1560754526.000000
+Z57 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/synthesis/code_5_b.vhd|
+Z58 !s107 D:/Trainee/APK/AHWR interlock/synthesis/code_5_b.vhd|
+!i113 1
+R11
+R12
+Adef_arch
+R2
+R3
+DEx4 work 8 code_5_b 0 22 OU<agAK2c7ES7f?MTiYKn3
+l63
+L20
+VbcFc]?eh5Rf1D<]^E5nJ^2
+!s100 [a7][LJRo:mfLa^AaSO]^0
+R6
+33
+R55
+!i10b 1
+R56
+R57
+R58
+!i113 1
+R11
+R12
+Ecode_5_b_test
+Z59 w1560754486
+R2
+R3
+R26
+Z60 8D:/Trainee/APK/AHWR interlock/stimulus/code_5_b_test.vhd
+Z61 FD:/Trainee/APK/AHWR interlock/stimulus/code_5_b_test.vhd
+l0
+L32
+V^SWIMc`me?4lNgZlI:kTl3
+!s100 QAmi9lMG05g=o64I4cJV73
+R6
+33
+R55
+!i10b 1
+R56
+Z62 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/stimulus/code_5_b_test.vhd|
+Z63 !s107 D:/Trainee/APK/AHWR interlock/stimulus/code_5_b_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_5_b_test 0 22 ^SWIMc`me?4lNgZlI:kTl3
+l60
+L35
+V0Yfa88EDEbCRgONKkPmdL2
+!s100 b3dO?aii9X8f8j;<UIDVA3
+R6
+33
+R55
+!i10b 1
+R56
+R62
+R63
+!i113 1
+R11
+R12
+Ecode_5_c
+Z64 w1560761388
+R2
+R3
+R26
+Z65 8D:/Trainee/APK/AHWR interlock/synthesis/code_5_c.vhd
+Z66 FD:/Trainee/APK/AHWR interlock/synthesis/code_5_c.vhd
+l0
+L8
+VZHlHN68bJ?7bfJmc^Yekc2
+!s100 n_][=aVZ[6Oz[mJJIQ[_D3
+R6
+33
+Z67 !s110 1560761393
+!i10b 1
+Z68 !s108 1560761393.000000
+Z69 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/synthesis/code_5_c.vhd|
+Z70 !s107 D:/Trainee/APK/AHWR interlock/synthesis/code_5_c.vhd|
+!i113 1
+R11
+R12
+Adef_arch
+R2
+R3
+DEx4 work 8 code_5_c 0 22 ZHlHN68bJ?7bfJmc^Yekc2
+l103
+L33
+V[DlCKVaVZ:IlN?@MBa=WN2
+!s100 S;FoDaekWFH4gnROD2_f90
+R6
+33
+R67
+!i10b 1
+R68
+R69
+R70
+!i113 1
+R11
+R12
+Ecode_5_c_test
+Z71 w1560761192
+R2
+R3
+R26
+Z72 8D:/Trainee/APK/AHWR interlock/stimulus/code_5_c_test.vhd
+Z73 FD:/Trainee/APK/AHWR interlock/stimulus/code_5_c_test.vhd
+l0
+L32
+V:Ie6Om]N@0DiHSHgZVha23
+!s100 =9CRYM[8aK0N74`7[k7`]1
+R6
+33
+R67
+!i10b 1
+R68
+Z74 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/stimulus/code_5_c_test.vhd|
+Z75 !s107 D:/Trainee/APK/AHWR interlock/stimulus/code_5_c_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 13 code_5_c_test 0 22 :Ie6Om]N@0DiHSHgZVha23
+l73
+L35
+V564`iPIgQ97CaJaVY?;V@2
+!s100 7nV=K8Vk7OiYBODL9?NgM2
+R6
+33
+R67
+!i10b 1
+R68
+R74
+R75
+!i113 1
+R11
+R12
+Ecode_5_d
+Z76 w1560763543
+R2
+R3
+R26
+Z77 8D:/Trainee/APK/AHWR interlock/synthesis/code_5_d.vhd
+Z78 FD:/Trainee/APK/AHWR interlock/synthesis/code_5_d.vhd
+l0
+L8
+VVPh3JW`Ud]G]GR[2G27D83
+!s100 86mdOLWTgRC1L;2NmBez22
+R6
+33
+Z79 !s110 1560763746
+!i10b 1
+Z80 !s108 1560763746.000000
+Z81 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/synthesis/code_5_d.vhd|
+Z82 !s107 D:/Trainee/APK/AHWR interlock/synthesis/code_5_d.vhd|
+!i113 1
+R11
+R12
+Adef_arch
+R2
+R3
+DEx4 work 8 code_5_d 0 22 VPh3JW`Ud]G]GR[2G27D83
+l104
+L35
+V3k=6bYeeWeI?efKQUNeQ;2
+!s100 cZolfE9W_063oJ1DP0T[33
+R6
+33
+R79
+!i10b 1
+R80
+R81
+R82
+!i113 1
+R11
+R12
+Ecode_5_d_test
+Z83 w1560763527
+R2
+R3
+R26
+Z84 8D:/Trainee/APK/AHWR interlock/stimulus/code_5_d_test.vhd
+Z85 FD:/Trainee/APK/AHWR interlock/stimulus/code_5_d_test.vhd
+l0
+L32
+VO]]=OkODPk3HgN:76iWR:3
+!s100 7bOZ^Y[JI`<X^b2;fj:=_3
+R6
+33
+R79
+!i10b 1
+R80
+Z86 !s90 -reportprogress|300|-2008|-explicit|-work|postsynth|D:/Trainee/APK/AHWR interlock/stimulus/code_5_d_test.vhd|
+Z87 !s107 D:/Trainee/APK/AHWR interlock/stimulus/code_5_d_test.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+Z88 DEx4 work 13 code_5_d_test 0 22 O]]=OkODPk3HgN:76iWR:3
+l75
+L35
+Z89 VTP]d6mAU@DIQ80MzGUGGA3
+Z90 !s100 93jYn[GQ;jmRdnmleO5Pn3
+R6
+33
+R79
+!i10b 1
+R80
+R86
+R87
+!i113 1
+R11
+R12
