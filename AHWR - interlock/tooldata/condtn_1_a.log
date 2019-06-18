@@ -1,0 +1,16 @@
+Project Name: condtn_1_a
+Location: D:\Trainee\APK\condtn_1_a
+Description: 
+Preferred HDL Type: VHDL
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : A3P600L-FG484
+Family         : ProASIC3L
+Die            : A3P600L
+Package        : 484 FBGA
+Speed          : STD
+Core Voltage   : 1.5
+Range          : COM
