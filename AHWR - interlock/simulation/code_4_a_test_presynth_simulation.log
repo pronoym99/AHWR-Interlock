@@ -1,0 +1,78 @@
+# Reading C:/Microsemi/Libero_SoC_v11.9/Modelsim/tcl/vsim/pref.tcl
+# do run.do
+# INFO: Simulation library presynth already exists
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap presynth presynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap proasic3l C:/Microsemi/Libero_SoC_v11.9/Designer/lib/modelsim/precompiled/vhdl/proasic3l 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vcom 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 11:10:38 on Jun 14,2019
+# vcom -reportprogress 300 -2008 -explicit -work presynth D:/Trainee/APK/AHWR interlock/hdl/code_4_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity code_4_a
+# -- Compiling architecture architecture_code_4_a of code_4_a
+# End time: 11:10:39 on Jun 14,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vcom 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 11:10:39 on Jun 14,2019
+# vcom -reportprogress 300 -2008 -explicit -work presynth D:/Trainee/APK/AHWR interlock/stimulus/code_4_a_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity code_4_a_test
+# -- Compiling architecture behavioral of code_4_a_test
+# End time: 11:10:39 on Jun 14,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L proasic3l -L presynth -t 1ps presynth.code_4_a_test 
+# Start time: 11:10:39 on Jun 14,2019
+# //  ModelSim Microsemi 10.5c Jul 21 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading presynth.code_4_a_test(behavioral)
+# Loading presynth.code_4_a(architecture_code_4_a)
+# ** Error: Cannot open macro file: wave.do
+# Error in macro ./run.do line 17
+# Cannot open macro file: wave.do
+#     while executing
+# "do "wave.do""
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/AI33
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/AI32
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DI94
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DI98
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DI96
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DI100
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DO15
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DO14
+add wave -position insertpoint  \
+sim:/code_4_a_test/code_4_a_0/DO9
+run
+force -freeze sim:/code_4_a_test/code_4_a_0/DI94 1 0
+force -freeze sim:/code_4_a_test/code_4_a_0/DI98 1 0
+run
+# End time: 11:12:17 on Jun 14,2019, Elapsed time: 0:01:38
+# Errors: 3, Warnings: 0

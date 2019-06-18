@@ -1,0 +1,159 @@
+# Reading C:/Microsemi/Libero_SoC_v11.9/Modelsim/tcl/vsim/pref.tcl
+# do run.do
+# INFO: Simulation library postsynth already exists
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap postsynth postsynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vmap 10.5c Lib Mapping Utility 2016.07 Jul 21 2016
+# vmap proasic3l C:/Microsemi/Libero_SoC_v11.9/Designer/lib/modelsim/precompiled/vhdl/proasic3l 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi vcom 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 12:09:52 on Jun 17,2019
+# vcom -reportprogress 300 -2008 -explicit -work postsynth D:/Trainee/APK/AHWR interlock/synthesis/code_5_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity code_5_a
+# -- Compiling architecture DEF_ARCH of code_5_a
+# End time: 12:09:52 on Jun 17,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi vcom 10.5c Compiler 2016.07 Jul 21 2016
+# Start time: 12:09:53 on Jun 17,2019
+# vcom -reportprogress 300 -2008 -explicit -work postsynth D:/Trainee/APK/AHWR interlock/stimulus/code_5_a_test.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity code_5_a_test
+# -- Compiling architecture behavioral of code_5_a_test
+# End time: 12:09:53 on Jun 17,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L proasic3l -L postsynth -t 1ps postsynth.code_5_a_test 
+# Start time: 12:09:53 on Jun 17,2019
+# //  ModelSim Microsemi 10.5c Jul 21 2016
+# //
+# //  Copyright 1991-2016 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading postsynth.code_5_a_test(behavioral)
+# Loading postsynth.code_5_a(def_arch)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading proasic3l.vtables
+# Loading proasic3l.nor3b(vital_act)
+# Loading proasic3l.inbuf(vital_act)
+# Loading proasic3l.nor3c(vital_act)
+# Loading proasic3l.nor2b(vital_act)
+# Loading proasic3l.vcc(vital_act)
+# Loading proasic3l.gnd(vital_act)
+# Loading proasic3l.aoi1b(vital_act)
+# Loading proasic3l.outbuf(vital_act)
+# ** Error: Cannot open macro file: wave.do
+# Error in macro ./run.do line 17
+# Cannot open macro file: wave.do
+#     while executing
+# "do "wave.do""
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI13
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI14
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI15
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI16
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI1
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI19
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI86
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI87
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI88
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI89
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI90
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI91
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI92
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI93
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI94
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI98
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI95
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/DI99
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/AI57
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/sense_finger_error
+add wave -position insertpoint  \
+sim:/code_5_a_test/code_5_a_0/Y5_a
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+force -freeze sim:/code_5_a_test/code_5_a_0/DI15 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI16 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI86 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI87 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI88 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI89 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI90 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI91 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI92 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI93 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI94 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI99 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI98 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI95 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/DI99 1 0
+force -freeze sim:/code_5_a_test/code_5_a_0/AI57 1 0
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 12:13:34 on Jun 17,2019, Elapsed time: 0:03:41
+# Errors: 3, Warnings: 0
