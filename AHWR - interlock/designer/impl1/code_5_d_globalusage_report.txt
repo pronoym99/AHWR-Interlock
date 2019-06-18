@@ -1,0 +1,14 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Date: Mon Jun 17 14:58:30 2019
+Design Name: code_5_d  Family: ProASIC3L  Die: A3P600L  Package: 484 FBGA
+Design State: Post-Layout
+
+
+
+

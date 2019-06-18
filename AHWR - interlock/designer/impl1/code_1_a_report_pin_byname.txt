@@ -1,0 +1,30 @@
+*****************************************************************
+Pin Report - Date: Thu Jun 13 12:16:18 2019 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: code_1_a
+Family: ProASIC3L
+Die: A3P600L
+Package: 484 FBGA
+*****************************************************************
+
+-----------------------------------------------------------------
+Flash*Freeze information
+        Pin name  : W6
+        Pin usage : Available as a regular pin
+-----------------------------------------------------------------
+
+Port |Pin |Fixed |Function  |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|----------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+AI30  U9   No     IO131RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AO8   V13  No     IO105RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI17  T12  No     IO108RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI19  U12  No     IO107RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI21  N7   No     IO129RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI23  AB6  No     IO130RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI35  U13  No     IO104RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI49  R12  No     IO110RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI50  V12  No     IO109RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI70  W13  No     IO106RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+Y1_a  W12  No     IO111RSB2  LVTTL    12                 High  None           No    5                 No           No

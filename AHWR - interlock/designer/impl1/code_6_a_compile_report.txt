@@ -1,0 +1,211 @@
+***************************************************************************
+                               Status Report
+                          Tue Jun 18 10:52:57 2019 ***************************************************************************
+
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+File Name: D:\Trainee\APK\AHWR interlock\designer\impl1\code_6_a.adb
+Design Name: code_6_a  Design State: compile
+Last Saved: Tue Jun 18 10:52:49 2019
+
+***** Device Data **************************************************
+
+Family: ProASIC3L  Die: A3P600L  Package: 484 FBGA
+Speed: STD  Voltage: 1.5
+
+Restrict JTAG Pins: YES
+Restrict Probe Pins: YES
+
+Junction Temperature Range:   COM
+Voltage Range:   COM
+
+***** Import Variables *********************************************
+
+Source File(s) Imported on Tue Jun 18 10:52:42 2019:
+        D:\Trainee\APK\AHWR interlock\synthesis\code_6_a.edn
+
+
+***** CAE Variables ************************************************
+
+Back Annotation File: N/A
+
+
+***** Bitstream Variables ******************************************
+
+Bitstream File: N/A
+     Lock Mode: OFF
+
+
+***** Compile Variables ********************************************
+
+Netlist PIN properties overwrite existing properties: 0
+
+Compile Output:
+=====================================================================
+Parameters used to run compile:
+===============================
+
+Family      : ProASIC3L
+Device      : A3P600L
+Package     : 484 FBGA
+Source      : D:\Trainee\APK\AHWR interlock\synthesis\code_6_a.edn
+Format      : EDIF
+Topcell     : code_6_a
+Speed grade : STD
+Temp        : 0:25:70
+Voltage     : 1.58:1.50:1.42
+
+Keep Existing Physical Constraints : No
+Keep Existing Timing Constraints   : Yes
+
+pdc_abort_on_error                 : Yes
+pdc_eco_display_unmatched_objects  : No
+pdc_eco_max_warnings               : 10000
+
+demote_globals                     : No
+promote_globals                    : No
+localclock_max_shared_instances    : 12
+localclock_buffer_tree_max_fanout  : 12
+
+combine_register                   : No
+delete_buffer_tree                 : No
+
+report_high_fanout_nets_limit      : 10
+
+=====================================================================
+Compile starts ...
+
+Warning: Top level port AI_21 is not connected to any IO pad
+Warning: Top level port AI_24 is not connected to any IO pad
+Warning: Top level port AI_25 is not connected to any IO pad
+Warning: Top level port DI_94 is not connected to any IO pad
+
+Netlist Optimization Report
+===========================
+
+Optimized macros:
+  - Dangling net drivers:   0
+  - Buffers:                0
+  - Inverters:              0
+  - Tieoff:                 0
+  - Logic combining:        0
+
+    Total macros optimized  0
+
+There were 0 error(s) and 4 warning(s) in this design.
+=====================================================================
+Compile report:
+===============
+
+    CORE                       Used:      8  Total:  13824   (0.06%)
+    IO (W/ clocks)             Used:     15  Total:    235   (6.38%)
+    Differential IO            Used:      0  Total:     60   (0.00%)
+    GLOBAL (Chip+Quadrant)     Used:      0  Total:     18   (0.00%)
+    PLL                        Used:      0  Total:      1   (0.00%)
+    RAM/FIFO                   Used:      0  Total:     24   (0.00%)
+    Low Static ICC             Used:      0  Total:      1   (0.00%)
+    FlashROM                   Used:      0  Total:      1   (0.00%)
+    User JTAG                  Used:      0  Total:      1   (0.00%)
+
+Global Information:
+
+    Type            | Used   | Total
+    ----------------|--------|--------------
+    Chip global     | 0      | 6  (0.00%)*
+    Quadrant global | 0      | 12 (0.00%)
+
+    (*) Chip globals may be assigned to Quadrant globals using the Multi-View Navigator (MVN)
+        or Physical Design Constraints (PDC).
+        They may also be assigned to Quadrant globals automatically during Layout.
+
+Core Information:
+
+    Type    | Instances    | Core tiles
+    --------|--------------|-----------
+    COMB    | 8            | 8
+    SEQ     | 0            | 0
+
+I/O Function:
+
+    Type                                  | w/o register  | w/ register  | w/ DDR register
+    --------------------------------------|---------------|--------------|----------------
+    Input I/O                             | 14            | 0            | 0
+    Output I/O                            | 1             | 0            | 0
+    Bidirectional I/O                     | 0             | 0            | 0
+    Differential Input I/O Pairs          | 0             | 0            | 0
+    Differential Output I/O Pairs         | 0             | 0            | 0
+
+I/O Technology:
+
+                                    |   Voltages    |             I/Os
+    --------------------------------|-------|-------|-------|--------|--------------
+    I/O Standard(s)                 | Vcci  | Vref  | Input | Output | Bidirectional
+    --------------------------------|-------|-------|-------|--------|--------------
+    LVTTL                           | 3.30v | N/A   | 14    | 1      | 0
+
+I/O Placement:
+
+    Locked  :   0
+    Placed  :   0
+    UnPlaced:  15 ( 100.00% )
+
+Net information report:
+=======================
+
+High fanout nets in the post compile netlist:
+    Fanout  Type          Name
+    --------------------------
+    1       INT_NET       Net   : INTERMED7
+                          Driver: AO_11_8_RNO
+    1       INT_NET       Net   : AO_11
+                          Driver: AO_11
+    1       INT_NET       Net   : AI_29_c
+                          Driver: AI_29_pad
+    1       INT_NET       Net   : DI_98_c
+                          Driver: DI_98_pad
+    1       INT_NET       Net   : DI_100_c
+                          Driver: DI_100_pad
+    1       INT_NET       Net   : AI_26_c
+                          Driver: AI_26_pad
+    1       INT_NET       Net   : AI_27_c
+                          Driver: AI_27_pad
+    1       INT_NET       Net   : DI_1_c
+                          Driver: DI_1_pad
+    1       INT_NET       Net   : DI_2_c
+                          Driver: DI_2_pad
+    1       INT_NET       Net   : DI_3_c
+                          Driver: DI_3_pad
+
+Nets that are candidates for clock assignment and the resulting fanout:
+    Fanout  Type          Name
+    --------------------------
+    1       INT_NET       Net   : INTERMED7
+                          Driver: AO_11_8_RNO
+    1       INT_NET       Net   : AO_11
+                          Driver: AO_11
+    1       INT_NET       Net   : AI_29_c
+                          Driver: AI_29_pad
+    1       INT_NET       Net   : DI_98_c
+                          Driver: DI_98_pad
+    1       INT_NET       Net   : DI_100_c
+                          Driver: DI_100_pad
+    1       INT_NET       Net   : AI_26_c
+                          Driver: AI_26_pad
+    1       INT_NET       Net   : AI_27_c
+                          Driver: AI_27_pad
+    1       INT_NET       Net   : DI_1_c
+                          Driver: DI_1_pad
+    1       INT_NET       Net   : DI_2_c
+                          Driver: DI_2_pad
+    1       INT_NET       Net   : DI_3_c
+                          Driver: DI_3_pad
+====================
+Flash*Freeze report:
+====================
+
+The design does not use the Flash*Freeze feature.
+
+====================
+
+

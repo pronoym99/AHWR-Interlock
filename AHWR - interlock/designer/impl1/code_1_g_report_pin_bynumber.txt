@@ -1,0 +1,503 @@
+*****************************************************************
+Pin Report - Date: Thu Jun 13 12:09:10 2019 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: code_1_g
+Family: ProASIC3L
+Die: A3P600L
+Package: 484 FBGA
+*****************************************************************
+
+-----------------------------------------------------------------
+Flash*Freeze information
+        Pin name  : W6
+        Pin usage : Available as a regular pin
+-----------------------------------------------------------------
+
+Number |Port |Function          |State       |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-------|-----|------------------|------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+A1            GND                Reserved
+A2            GND                Reserved
+A3            VCCIB0             Reserved
+A4            Not Bonded         Unconnected
+A5            Not Bonded         Unconnected
+A6            IO09RSB0           Unassigned
+A7            IO15RSB0           Unassigned
+A8            Not Bonded         Unconnected
+A9            Not Bonded         Unconnected
+A10           IO22RSB0           Unassigned
+A11           IO23RSB0           Unassigned
+A12           IO29RSB0           Unassigned
+A13           IO35RSB0           Unassigned
+A14           Not Bonded         Unconnected
+A15           Not Bonded         Unconnected
+A16           IO46RSB0           Unassigned
+A17           IO48RSB0           Unassigned
+A18           Not Bonded         Unconnected
+A19           Not Bonded         Unconnected
+A20           VCCIB0             Reserved
+A21           GND                Reserved
+A22           GND                Reserved
+AA1           GND                Reserved
+AA2           VCCIB3             Reserved
+AA3           Not Bonded         Unconnected
+AA4           Not Bonded         Unconnected
+AA5           Not Bonded         Unconnected
+AA6           IO135RSB2          Unassigned
+AA7           IO133RSB2          Unassigned
+AA8           Not Bonded         Unconnected
+AA9           Not Bonded         Unconnected
+AA10          Not Bonded         Unconnected
+AA11          Not Bonded         Unconnected
+AA12          Not Bonded         Unconnected
+AA13          Not Bonded         Unconnected
+AA14          Not Bonded         Unconnected
+AA15          Not Bonded         Unconnected
+AA16          IO101RSB2          Unassigned
+AA17          Not Bonded         Unconnected
+AA18          Not Bonded         Unconnected
+AA19          Not Bonded         Unconnected
+AA20          Not Bonded         Unconnected
+AA21          VCCIB1             Reserved
+AA22          GND                Reserved
+AB1           GND                Reserved
+AB2           GND                Reserved
+AB3           VCCIB2             Reserved
+AB4           Not Bonded         Unconnected
+AB5           Not Bonded         Unconnected
+AB6           IO130RSB2          Unassigned
+AB7           IO128RSB2          Unassigned
+AB8           IO122RSB2          Unassigned
+AB9           IO116RSB2          Unassigned
+AB10          Not Bonded         Unconnected
+AB11          Not Bonded         Unconnected
+AB12          IO113RSB2          Unassigned
+AB13          IO112RSB2          Unassigned
+AB14          Not Bonded         Unconnected
+AB15          Not Bonded         Unconnected
+AB16          IO100RSB2          Unassigned
+AB17          IO95RSB2           Unassigned
+AB18          Not Bonded         Unconnected
+AB19          Not Bonded         Unconnected
+AB20          VCCIB2             Reserved
+AB21          GND                Reserved
+AB22          GND                Reserved
+B1            GND                Reserved
+B2            VCCIB3             Reserved
+B3            Not Bonded         Unconnected
+B4            Not Bonded         Unconnected
+B5            Not Bonded         Unconnected
+B6            IO08RSB0           Unassigned
+B7            IO12RSB0           Unassigned
+B8            Not Bonded         Unconnected
+B9            Not Bonded         Unconnected
+B10           IO17RSB0           Unassigned
+B11           Not Bonded         Unconnected
+B12           Not Bonded         Unconnected
+B13           IO36RSB0           Unassigned
+B14           Not Bonded         Unconnected
+B15           Not Bonded         Unconnected
+B16           IO47RSB0           Unassigned
+B17           IO49RSB0           Unassigned
+B18           Not Bonded         Unconnected
+B19           Not Bonded         Unconnected
+B20           Not Bonded         Unconnected
+B21           VCCIB1             Reserved
+B22           GND                Reserved
+C1            VCCIB3             Reserved
+C2            Not Bonded         Unconnected
+C3            Not Bonded         Unconnected
+C4            Not Bonded         Unconnected
+C5            GND                Reserved
+C6            Not Bonded         Unconnected
+C7            Not Bonded         Unconnected
+C8            VCC                Reserved
+C9            VCC                Reserved
+C10           Not Bonded         Unconnected
+C11           Not Bonded         Unconnected
+C12           Not Bonded         Unconnected
+C13           Not Bonded         Unconnected
+C14           VCC                Reserved
+C15           VCC                Reserved
+C16           Not Bonded         Unconnected
+C17           Not Bonded         Unconnected
+C18           GND                Reserved
+C19           Not Bonded         Unconnected
+C20           Not Bonded         Unconnected
+C21           Not Bonded         Unconnected
+C22           VCCIB1             Reserved
+D1            Not Bonded         Unconnected
+D2            Not Bonded         Unconnected
+D3            Not Bonded         Unconnected
+D4            GND                Reserved
+D5            GAA0/IO00RSB0      Special
+D6            GAA1/IO01RSB0      Special
+D7            GAB0/IO02RSB0      Special
+D8            IO11RSB0           Unassigned
+D9            IO16RSB0           Unassigned
+D10           IO18RSB0           Unassigned
+D11           IO28RSB0           Unassigned
+D12           IO34RSB0           Unassigned
+D13           IO37RSB0           Unassigned
+D14           IO41RSB0           Unassigned
+D15           IO43RSB0           Unassigned
+D16           GBB1/IO57RSB0      Special
+D17           GBA0/IO58RSB0      Special
+D18           GBA1/IO59RSB0      Special
+D19           GND                Reserved
+D20           Not Bonded         Unconnected
+D21           Not Bonded         Unconnected
+D22           Not Bonded         Unconnected
+E1            Not Bonded         Unconnected
+E2            Not Bonded         Unconnected
+E3            GND                Reserved
+E4            GAB2/IO173PDB3     Special
+E5            GAA2/IO174PDB3     Special
+E6            GNDQ               Reserved
+E7            GAB1/IO03RSB0      Special
+E8            IO13RSB0           Unassigned
+E9            IO14RSB0           Unassigned
+E10           IO21RSB0           Unassigned
+E11           IO27RSB0           Unassigned
+E12           IO32RSB0           Unassigned
+E13           IO38RSB0           Unassigned
+E14           IO42RSB0           Unassigned
+E15           GBC1/IO55RSB0      Special
+E16           GBB0/IO56RSB0      Special
+E17           IO52RSB0           Unassigned
+E18           GBA2/IO60PDB1      Special
+E19           IO60NDB1           Unassigned
+E20           GND                Reserved
+E21           Not Bonded         Unconnected
+E22           Not Bonded         Unconnected
+F1            Not Bonded         Unconnected
+F2            Not Bonded         Unconnected
+F3            Not Bonded         Unconnected
+F4            IO173NDB3          Unassigned
+F5            IO174NDB3          Unassigned
+F6            VMV3               Reserved
+F7            IO07RSB0           Unassigned
+F8            GAC0/IO04RSB0      Special
+F9            GAC1/IO05RSB0      Special
+F10           IO20RSB0           Unassigned
+F11           IO24RSB0           Unassigned
+F12           IO33RSB0           Unassigned
+F13           IO39RSB0           Unassigned
+F14           IO44RSB0           Unassigned
+F15           GBC0/IO54RSB0      Special
+F16           IO51RSB0           Unassigned
+F17           VMV0               Reserved
+F18           IO61NPB1           Unassigned
+F19           IO63PDB1           Unassigned
+F20           Not Bonded         Unconnected
+F21           Not Bonded         Unconnected
+F22           Not Bonded         Unconnected
+G1            IO170NDB3          Unassigned
+G2            IO170PDB3          Unassigned
+G3            Not Bonded         Unconnected
+G4            IO171NDB3          Unassigned
+G5            IO171PDB3          Unassigned
+G6            GAC2/IO172PDB3     Special
+G7            IO06RSB0           Unassigned
+G8            GNDQ               Reserved
+G9            IO10RSB0           Unassigned
+G10           IO19RSB0           Unassigned
+G11           IO26RSB0           Unassigned
+G12           IO30RSB0           Unassigned
+G13           IO40RSB0           Unassigned
+G14           IO45RSB0           Unassigned
+G15           GNDQ               Reserved
+G16           IO50RSB0           Unassigned
+G17           GBB2/IO61PPB1      Special
+G18           IO53RSB0           Unassigned
+G19           IO63NDB1           Unassigned
+G20           Not Bonded         Unconnected
+G21           Not Bonded         Unconnected
+G22           Not Bonded         Unconnected
+H1            Not Bonded         Unconnected
+H2            Not Bonded         Unconnected
+H3            VCC                Reserved
+H4            IO166PDB3          Unassigned
+H5            IO167NPB3          Unassigned
+H6            IO172NDB3          Unassigned
+H7            IO169NDB3          Unassigned
+H8            VMV0               Reserved
+H9            VCCIB0             Reserved
+H10           VCCIB0             Reserved
+H11           IO25RSB0           Unassigned
+H12           IO31RSB0           Unassigned
+H13           VCCIB0             Reserved
+H14           VCCIB0             Reserved
+H15           VMV1               Reserved
+H16           GBC2/IO62PDB1      Special
+H17           IO67PPB1           Unassigned
+H18           IO64PPB1           Unassigned
+H19           IO66PDB1           Unassigned
+H20           VCC                Reserved
+H21           Not Bonded         Unconnected
+H22           Not Bonded         Unconnected
+J1            Not Bonded         Unconnected
+J2            Not Bonded         Unconnected
+J3            Not Bonded         Unconnected
+J4            IO166NDB3          Unassigned
+J5            IO168NPB3          Unassigned
+J6            IO167PPB3          Unassigned
+J7            IO169PDB3          Unassigned
+J8            VCCIB3             Reserved
+J9            GND                Reserved
+J10           VCC                Reserved
+J11           VCC                Reserved
+J12           VCC                Reserved
+J13           VCC                Reserved
+J14           GND                Reserved
+J15           VCCIB1             Reserved
+J16           IO62NDB1           Unassigned
+J17           IO64NPB1           Unassigned
+J18           IO65PPB1           Unassigned
+J19           IO66NDB1           Unassigned
+J20           Not Bonded         Unconnected
+J21           IO68PDB1           Unassigned
+J22           IO68NDB1           Unassigned
+K1            IO157PDB3          Unassigned
+K2            IO157NDB3          Unassigned
+K3            Not Bonded         Unconnected
+K4            IO165NDB3          Unassigned
+K5            IO165PDB3          Unassigned
+K6            IO168PPB3          Unassigned
+K7            GFC1/IO164PPB3     Special
+K8            VCCIB3             Reserved
+K9            VCC                Reserved
+K10           GND                Reserved
+K11           GND                Reserved
+K12           GND                Reserved
+K13           GND                Reserved
+K14           VCC                Reserved
+K15           VCCIB1             Reserved
+K16           GCC1/IO69PPB1      Special
+K17           IO65NPB1           Unassigned
+K18           IO75PDB1           Unassigned
+K19           IO75NDB1           Unassigned
+K20           Not Bonded         Unconnected
+K21           IO76NDB1           Unassigned
+K22           IO76PDB1           Unassigned
+L1            Not Bonded         Unconnected
+L2            IO155PDB3          Unassigned
+L3            Not Bonded         Unconnected
+L4      Y1_g  GFB0/IO163NPB3     Special      LVTTL    12                 High  None           No    5                 No           No
+L5      AI17  GFA0/IO162NDB3     Special      LVTTL    ---                ---   None           ---   ---               No           No
+L6      AO8   GFB1/IO163PPB3     Special      LVTTL    ---                ---   None           ---   ---               No           No
+L7            VCOMPLF            Reserved
+L8            GFC0/IO164NPB3     Special
+L9            VCC                Reserved
+L10           GND                Reserved
+L11           GND                Reserved
+L12           GND                Reserved
+L13           GND                Reserved
+L14           VCC                Reserved
+L15           GCC0/IO69NPB1      Special
+L16           GCB1/IO70PPB1      Special
+L17           GCA0/IO71NPB1      Special
+L18           IO67NPB1           Unassigned
+L19           GCB0/IO70NPB1      Special
+L20           IO77PDB1           Unassigned
+L21           IO77NDB1           Unassigned
+L22           IO78NPB1           Unassigned
+M1            Not Bonded         Unconnected
+M2            IO155NDB3          Unassigned
+M3            IO158NPB3          Unassigned
+M4            GFA2/IO161PPB3     Special
+M5      AI16  GFA1/IO162PDB3     Special      LVTTL    ---                ---   None           ---   ---               No           No
+M6            VCCPLF             Reserved
+M7            IO160NDB3          Unassigned
+M8            GFB2/IO160PDB3     Special
+M9            VCC                Reserved
+M10           GND                Reserved
+M11           GND                Reserved
+M12           GND                Reserved
+M13           GND                Reserved
+M14           VCC                Reserved
+M15           GCB2/IO73PPB1      Special
+M16           GCA1/IO71PPB1      Special
+M17           GCC2/IO74PPB1      Special
+M18           IO80PPB1           Unassigned
+M19           GCA2/IO72PDB1      Special
+M20           IO79PPB1           Unassigned
+M21           IO78PPB1           Unassigned
+M22           Not Bonded         Unconnected
+N1            IO154NDB3          Unassigned
+N2            IO154PDB3          Unassigned
+N3            Not Bonded         Unconnected
+N4            GFC2/IO159PDB3     Special
+N5            IO161NPB3          Unassigned
+N6            IO156PPB3          Unassigned
+N7            IO129RSB2          Unassigned
+N8            VCCIB3             Reserved
+N9            VCC                Reserved
+N10           GND                Reserved
+N11           GND                Reserved
+N12           GND                Reserved
+N13           GND                Reserved
+N14           VCC                Reserved
+N15           VCCIB1             Reserved
+N16           IO73NPB1           Unassigned
+N17           IO80NPB1           Unassigned
+N18           IO74NPB1           Unassigned
+N19           IO72NDB1           Unassigned
+N20           Not Bonded         Unconnected
+N21           IO79NPB1           Unassigned
+N22           Not Bonded         Unconnected
+P1            Not Bonded         Unconnected
+P2            IO153PDB3          Unassigned
+P3            IO153NDB3          Unassigned
+P4            IO159NDB3          Unassigned
+P5            IO156NPB3          Unassigned
+P6            IO151PPB3          Unassigned
+P7            IO158PPB3          Unassigned
+P8            VCCIB3             Reserved
+P9            GND                Reserved
+P10           VCC                Reserved
+P11           VCC                Reserved
+P12           VCC                Reserved
+P13           VCC                Reserved
+P14           GND                Reserved
+P15           VCCIB1             Reserved
+P16           GDB0/IO87NPB1      Special
+P17           IO85NDB1           Unassigned
+P18           IO85PDB1           Unassigned
+P19           IO84PDB1           Unassigned
+P20           Not Bonded         Unconnected
+P21           IO81PDB1           Unassigned
+P22           Not Bonded         Unconnected
+R1            Not Bonded         Unconnected
+R2            Not Bonded         Unconnected
+R3            VCC                Reserved
+R4            IO150PDB3          Unassigned
+R5            IO151NPB3          Unassigned
+R6            IO147NPB3          Unassigned
+R7            GEC0/IO146NPB3     Special
+R8            VMV3               Reserved
+R9            VCCIB2             Reserved
+R10           VCCIB2             Reserved
+R11           IO117RSB2          Unassigned
+R12           IO110RSB2          Unassigned
+R13           VCCIB2             Reserved
+R14           VCCIB2             Reserved
+R15           VMV2               Reserved
+R16           IO94RSB2           Unassigned
+R17           GDB1/IO87PPB1      Special
+R18           GDC1/IO86PDB1      Special
+R19           IO84NDB1           Unassigned
+R20           VCC                Reserved
+R21           IO81NDB1           Unassigned
+R22           IO82PDB1           Unassigned
+T1            IO152PDB3          Unassigned
+T2            IO152NDB3          Unassigned
+T3            Not Bonded         Unconnected
+T4            IO150NDB3          Unassigned
+T5            IO147PPB3          Unassigned
+T6            GEC1/IO146PPB3     Special
+T7            IO140RSB2          Unassigned
+T8            GNDQ               Reserved
+T9            GEA2/IO143RSB2     Special
+T10           IO126RSB2          Unassigned
+T11           IO120RSB2          Unassigned
+T12           IO108RSB2          Unassigned
+T13           IO103RSB2          Unassigned
+T14           IO99RSB2           Unassigned
+T15           GNDQ               Reserved
+T16           IO92RSB2           Unassigned
+T17           VJTAG              Reserved
+T18           GDC0/IO86NDB1      Special
+T19           GDA1/IO88PDB1      Special
+T20           Not Bonded         Unconnected
+T21           IO83PDB1           Unassigned
+T22           IO82NDB1           Unassigned
+U1            IO149PDB3          Unassigned
+U2            IO149NDB3          Unassigned
+U3            Not Bonded         Unconnected
+U4            GEB1/IO145PDB3     Special
+U5            GEB0/IO145NDB3     Special
+U6            VMV2               Reserved
+U7            IO138RSB2          Unassigned
+U8            IO136RSB2          Unassigned
+U9            IO131RSB2          Unassigned
+U10           IO124RSB2          Unassigned
+U11           IO119RSB2          Unassigned
+U12           IO107RSB2          Unassigned
+U13           IO104RSB2          Unassigned
+U14           IO97RSB2           Unassigned
+U15           VMV1               Reserved
+U16           TCK                Reserved
+U17           VPUMP              Reserved
+U18           TRST               Reserved
+U19           GDA0/IO88NDB1      Special
+U20           Not Bonded         Unconnected
+U21           IO83NDB1           Unassigned
+U22           Not Bonded         Unconnected
+V1            Not Bonded         Unconnected
+V2            Not Bonded         Unconnected
+V3            GND                Reserved
+V4            GEA1/IO144PDB3     Special
+V5            GEA0/IO144NDB3     Special
+V6            IO139RSB2          Unassigned
+V7            GEC2/IO141RSB2     Special
+V8            IO132RSB2          Unassigned
+V9            IO127RSB2          Unassigned
+V10           IO121RSB2          Unassigned
+V11           IO114RSB2          Unassigned
+V12           IO109RSB2          Unassigned
+V13           IO105RSB2          Unassigned
+V14           IO98RSB2           Unassigned
+V15           IO96RSB2           Unassigned
+V16           GDB2/IO90RSB2      Special
+V17           TDI                Reserved
+V18           GNDQ               Reserved
+V19           TDO                Reserved
+V20           GND                Reserved
+V21           Not Bonded         Unconnected
+V22           Not Bonded         Unconnected
+W1            Not Bonded         Unconnected
+W2            IO148PDB3          Unassigned
+W3            Not Bonded         Unconnected
+W4            GND                Reserved
+W5            IO137RSB2          Unassigned
+W6            FF/GEB2/IO142RSB2  Special
+W7            IO134RSB2          Unassigned
+W8            IO125RSB2          Unassigned
+W9            IO123RSB2          Unassigned
+W10           IO118RSB2          Unassigned
+W11           IO115RSB2          Unassigned
+W12           IO111RSB2          Unassigned
+W13           IO106RSB2          Unassigned
+W14           IO102RSB2          Unassigned
+W15           GDC2/IO91RSB2      Special
+W16           IO93RSB2           Unassigned
+W17           GDA2/IO89RSB2      Special
+W18           TMS                Reserved
+W19           GND                Reserved
+W20           Not Bonded         Unconnected
+W21           Not Bonded         Unconnected
+W22           Not Bonded         Unconnected
+Y1            VCCIB3             Reserved
+Y2            IO148NDB3          Unassigned
+Y3            Not Bonded         Unconnected
+Y4            Not Bonded         Unconnected
+Y5            GND                Reserved
+Y6            Not Bonded         Unconnected
+Y7            Not Bonded         Unconnected
+Y8            VCC                Reserved
+Y9            VCC                Reserved
+Y10           Not Bonded         Unconnected
+Y11           Not Bonded         Unconnected
+Y12           Not Bonded         Unconnected
+Y13           Not Bonded         Unconnected
+Y14           VCC                Reserved
+Y15           VCC                Reserved
+Y16           Not Bonded         Unconnected
+Y17           Not Bonded         Unconnected
+Y18           GND                Reserved
+Y19           Not Bonded         Unconnected
+Y20           Not Bonded         Unconnected
+Y21           Not Bonded         Unconnected
+Y22           VCCIB1             Reserved

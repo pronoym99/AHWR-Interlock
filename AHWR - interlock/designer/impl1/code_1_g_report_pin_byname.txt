@@ -1,0 +1,23 @@
+*****************************************************************
+Pin Report - Date: Thu Jun 13 12:09:09 2019 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: code_1_g
+Family: ProASIC3L
+Die: A3P600L
+Package: 484 FBGA
+*****************************************************************
+
+-----------------------------------------------------------------
+Flash*Freeze information
+        Pin name  : W6
+        Pin usage : Available as a regular pin
+-----------------------------------------------------------------
+
+Port |Pin |Fixed |Function       |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|----|------|---------------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+AI16  M5   No     GFA1/IO162PDB3  LVTTL    ---                ---   None           ---   ---               No           No
+AI17  L5   No     GFA0/IO162NDB3  LVTTL    ---                ---   None           ---   ---               No           No
+AO8   L6   No     GFB1/IO163PPB3  LVTTL    ---                ---   None           ---   ---               No           No
+Y1_g  L4   No     GFB0/IO163NPB3  LVTTL    12                 High  None           No    5                 No           No

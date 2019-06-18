@@ -1,0 +1,40 @@
+*****************************************************************
+Pin Report - Date: Mon Jun 17 14:58:31 2019 Pinchecksum: NOT-AVAILABLE
+Product: Designer
+Release: v11.9
+Version: 11.9.0.4
+Design Name: code_5_d
+Family: ProASIC3L
+Die: A3P600L
+Package: 484 FBGA
+*****************************************************************
+
+-----------------------------------------------------------------
+Flash*Freeze information
+        Pin name  : W6
+        Pin usage : Available as a regular pin
+-----------------------------------------------------------------
+
+Port |Pin  |Fixed |Function  |I/O Std |Output Drive (mA) |Slew |Resistor Pull |Skew |Output Load (pF) |Use I/O Reg |Hot Swappable |
+-----|-----|------|----------|--------|------------------|-----|--------------|-----|-----------------|------------|--------------|
+AI24  U9    No     IO131RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AI25  V8    No     IO132RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AI26  AA7   No     IO133RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AI27  AA6   No     IO135RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AI29  U8    No     IO136RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+AO9   M3    No     IO158NPB3  LVTTL    ---                ---   None           ---   ---               No           No
+DI1   AA16  No     IO101RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI2   T14   No     IO99RSB2   LVTTL    ---                ---   None           ---   ---               No           No
+DI3   AB16  No     IO100RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI4   W14   No     IO102RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI13  G11   No     IO26RSB0   LVTTL    ---                ---   None           ---   ---               No           No
+DI14  F11   No     IO24RSB0   LVTTL    ---                ---   None           ---   ---               No           No
+DI15  K1    No     IO157PDB3  LVTTL    ---                ---   None           ---   ---               No           No
+DI16  E11   No     IO27RSB0   LVTTL    ---                ---   None           ---   ---               No           No
+DI86  V13   No     IO105RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI87  U12   No     IO107RSB2  LVTTL    ---                ---   None           ---   ---               No           No
+DI88  V14   No     IO98RSB2   LVTTL    ---                ---   None           ---   ---               No           No
+DI89  U14   No     IO97RSB2   LVTTL    ---                ---   None           ---   ---               No           No
+DI94  W16   No     IO93RSB2   LVTTL    ---                ---   None           ---   ---               No           No
+DI98  R16   No     IO94RSB2   LVTTL    ---                ---   None           ---   ---               No           No
+Y5_d  W13   No     IO106RSB2  LVTTL    12                 High  None           No    5                 No           No
