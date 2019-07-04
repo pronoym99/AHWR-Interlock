@@ -89,7 +89,7 @@ begin
     
     INTERMED18<= INTERMED10 OR INTERMED13;
     AO_10<= INTERMED7 AND INTERMED3 AND OICL AND INTERMED16 AND INTERMED14 ;
-    Y6_a<= AO_10 xor PVNULL;
+    Y6_b<= AO_10 xor PVNULL;
 
 
    -- architecture body
